@@ -41,11 +41,12 @@ half of Okung's $13 million annual salary will be immediately converted to bitco
 " by https://twitter.com/JoePompliano
 
 **Scenario 7**: "$btc is a lifechanger!
-Thanks @bartroorda for introducing me with Bitcoin. Thanks @bvanmaarseveen and @JeanneDeBit for teaching me..
+Thanks [@bartroorda](https://twitter.com/bartroorda) for introducing me with Bitcoin. Thanks @bvanmaarseveen and @JeanneDeBit for teaching me..
 What a ride down this rabbit hole 😁😁."
 ```
-"@bartroorda introduced me with Steem end 2016. 
-That lead to Bitcoin. It has been a wonderful ride with meetups by @JeanneDeBit and @bvanmaarseveen. 
+"[@bartroorda](https://twitter.com/bartroorda) introduced me with Steem end 2016. 
+That lead to Bitcoin. It has been a wonderful ride with meetups by [@JeanneDeBit](https://twitter.com/JeanneDeBit) and [@bvanmaarseveen](@bvanmaarseveen). 
 It teached me about new opportunities and personal finance. 
 Really grateful for these life changes. 🙌 "
 ```
+by https://twitter.com/Rolf_MrRvdH
