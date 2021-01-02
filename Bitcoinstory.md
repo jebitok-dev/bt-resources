@@ -27,3 +27,13 @@ I only wishI had more gut back then to invest more) I'm super grateful😊
 THAT SAID I WOULD HAVE PROLLY LOST IT SOMEHOW." by https://twitter.com/KEENANMULVANEY
 **Scenario 5**: 
 "People were laughing on me in 2012 when I was buying $BTC under $15, instead of investing into stock market. I’m moving my #Bitcoin to $ZEC now. Can see some grins again. Will update the story in 2025 👋 #Zcash" by https://twitter.com/zcashmaximalist
+
+**Scenario 6**: 
+"In May 2019, [Russel Okung](https://twitter.com/RussellOkung) tweeted
+```
+ "Pay me in Bitcoin."
+```
+Today, Okung has become the first player from any major US professional sports league to be paid in bitcoin.
+Going forward, half of Okung's $13 million annual salary will be immediately converted to bitcoin.
+Legend. https://t.co/QmoBnTsw8L" by https://twitter.com/Joe
+Pompliano
