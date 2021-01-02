@@ -30,11 +30,12 @@ THAT SAID I WOULD HAVE PROLLY LOST IT SOMEHOW." by https://twitter.com/KEENANMUL
 
 **Scenario 6**: 
 "In May 2019, [Russel Okung](https://twitter.com/RussellOkung) tweeted
-``
+```
 "Pay me in Bitcoin."
 ```
 Today, Okung has become the first player from any major US professional sports league to be paid in bitcoin.
-Going forward, ```
+Going forward, 
+```
 half of Okung's $13 million annual salary will be immediately converted to bitcoin.
 ```
-Legend. https://t.co/QmoBnTsw8L" by https://twitter.com/JoePompliano
+" by https://twitter.com/JoePompliano
