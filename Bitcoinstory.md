@@ -22,3 +22,6 @@ I sold half to pay graduate school. Thank you for introducingme to crypto, Linda
 It's really helpful  to live with no student debt and have something that keeps growing! 
 I only wishI had more gut back then to invest more) I'm super grateful😊
 ```
+**Scenario 4**: 
+"I KNOW EVERYONE KNOWS SOMEONE WITH A STORY LIKE THIS; BUT IN 2011 A GEEKY FRIEND AT WORK TOLD ME TO BUY BITCOIN (AT THAT STAGE IT WAS AROUND $0.50 PER COIN) AND I WAS SO CLOSE. CAN'T BELIEVE I MISSED THE OPPORTUNITY. 
+THAT SAID I WOULD HAVE PROLLY LOST IT SOMEHOW." by https://twitter.com/KEENANMULVANEY
