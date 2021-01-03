@@ -50,3 +50,16 @@ It teached me about new opportunities and personal finance.
 Really grateful for these life changes. 🙌 "
 ```
 by https://twitter.com/Rolf_MrRvdH
+
+**Scenario 8**: "I first heard about Bitcoin listening to NPR in 2012 in a report about BTC being used as payment in New York City.
+
+I dismissed it.
+
+I heard about BTC again in February 2013 when I stumbled upon Max Keiser.
+
+I finally FOMO’d in March 2013 @ $47
+Been HODLing ever since!!" by https://twitter.com/AwyeeDeaterBob
+
+**Scenario 9**: "A friend told me to buy it in 2015. Downloaded a wallet but there was no buy button (didn’t know what on ramps were). Bought in 2019 when I came across a @CultivateCrypto video" by https://twitter.com/BitBallin
+
+**Scenario 10**: "I first learned about bitcoin from the Joe Rogan podcast in January 2014. Bought one right away. Long story short, I’m still standing! #bitcoin #hodl" by https://twitter.com/btcmoonguy
