@@ -71,5 +71,8 @@ Been HODLing ever since!!" by https://twitter.com/AwyeeDeaterBob
 
 **Scenario 13**: 
 ```
-"Rapper 50Cent sold his album, Animal Ambition for bitcoin in 2014. Recently,  he realized he'd made over 8 million dollars in the exponential price rise, from the approximate 700 bitcoin he got from the album. Very shrewd move 50" by This Week on Bitcoin podcast 
+"Rapper 50Cent sold his album, Animal Ambition for bitcoin in 2014. 
+Recently,  he realized he'd made over 8 million dollars in the exponential price rise, 
+from the approximate 700 bitcoin he got from the album. 
+Very shrewd move 50" by This Week on Bitcoin podcast 
 ```
