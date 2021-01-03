@@ -68,3 +68,8 @@ Been HODLing ever since!!" by https://twitter.com/AwyeeDeaterBob
 **Scenario 11**: "My friend Roch passed away four+ years ago. I wish he was here to see how #Bitcoin is doing these days. He pushed me back in 2012 until I took it seriously. Thank you Roch RIP." by https://twitter.com/CraigShipp
 
 **Scenario 12**: "Thanks to that long-forgotten random person who wrote that one Medium article in 2017 that ended with, "if you liked this, feel free to throw me some Satoshis," leading me to think, "what is a satoshi?"" by https://twitter.com/daribely_
+
+**Scenario 13**: 
+```
+"Rapper 50Cent sold his album, Animal Ambition for bitcoin in 2014. Recently,  he realized he'd made over 8 million dollars in the exponential price rise, from the approximate 700 bitcoin he got from the album. Very shrewd move 50" by This Week on Bitcoin podcast 
+```
