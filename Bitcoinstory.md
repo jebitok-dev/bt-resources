@@ -25,6 +25,7 @@ I only wishI had more gut back then to invest more) I'm super grateful😊
 **Scenario 4**: 
 "I KNOW EVERYONE KNOWS SOMEONE WITH A STORY LIKE THIS; BUT IN 2011 A GEEKY FRIEND AT WORK TOLD ME TO BUY BITCOIN (AT THAT STAGE IT WAS AROUND $0.50 PER COIN) AND I WAS SO CLOSE. CAN'T BELIEVE I MISSED THE OPPORTUNITY. 
 THAT SAID I WOULD HAVE PROLLY LOST IT SOMEHOW." by https://twitter.com/KEENANMULVANEY
+
 **Scenario 5**: 
 "People were laughing on me in 2012 when I was buying $BTC under $15, instead of investing into stock market. I’m moving my #Bitcoin to $ZEC now. Can see some grins again. Will update the story in 2025 👋 #Zcash" by https://twitter.com/zcashmaximalist
 
@@ -63,3 +64,7 @@ Been HODLing ever since!!" by https://twitter.com/AwyeeDeaterBob
 **Scenario 9**: "A friend told me to buy it in 2015. Downloaded a wallet but there was no buy button (didn’t know what on ramps were). Bought in 2019 when I came across a @CultivateCrypto video" by https://twitter.com/BitBallin
 
 **Scenario 10**: "I first learned about bitcoin from the Joe Rogan podcast in January 2014. Bought one right away. Long story short, I’m still standing! #bitcoin #hodl" by https://twitter.com/btcmoonguy
+
+**Scenario 11**: "My friend Roch passed away four+ years ago. I wish he was here to see how #Bitcoin is doing these days. He pushed me back in 2012 until I took it seriously. Thank you Roch RIP." by https://twitter.com/CraigShipp
+
+**Scenario 12**: "Thanks to that long-forgotten random person who wrote that one Medium article in 2017 that ended with, "if you liked this, feel free to throw me some Satoshis," leading me to think, "what is a satoshi?"" by https://twitter.com/daribely_
