@@ -91,3 +91,5 @@ Bought my wife’s engagement ring. Should have kept it as Bitcoin! 🤣😭" ht
 **Scenario 16**: "You might like this one: I sold bitcoin in 2014 to pay for a semester of college..." https://twitter.com/zchyboy/status/1347324356423262210?s=19
 
 **Scenario 17**: "You might like this one: I sold bitcoin in 2014 to pay for a semester of college..."https://twitter.com/picklechipz/status/1348016032728887298?s=19
+
+**scenario 18**: "remembering back to 2015 when i bought one (1) bitcoin valued at ~$270... and then sold it for a $300 profit in 2016....... and wanting to k*ll myself bc a bitcoin is now worth nearly $40,000 hahahaha" https://twitter.com/disco_lem0nade/status/1347792080458944517?s=19
