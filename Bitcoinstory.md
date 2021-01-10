@@ -80,3 +80,10 @@ Very shrewd move 50" by This Week on Bitcoin podcast
 **Scenario 14**: "Just found out my brother had 50 Bitcoin when he was in college and sold it when it was at $2 a piece
 
  RIP" https://twitter.com/marligirltm/status/1346231856363151360?s=19
+
+**Scenario 15**: "Became aware probably around end of 2016. 
+
+Bought in August 2017 ~ $3k 
+Sold December 2017 ~ $10k 
+
+Bought my wife’s engagement ring. Should have kept it as Bitcoin! 🤣😭" https://twitter.com/craigmcd10/status/1345744985132568577?s=19
