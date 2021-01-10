@@ -76,3 +76,7 @@ Recently,  he realized he'd made over 8 million dollars in the exponential price
 from the approximate 700 bitcoin he got from the album. 
 Very shrewd move 50" by This Week on Bitcoin podcast 
 ```
+
+**Scenario 14**: "Just found out my brother had 50 Bitcoin when he was in college and sold it when it was at $2 a piece
+
+ RIP" https://twitter.com/marligirltm/status/1346231856363151360?s=19
