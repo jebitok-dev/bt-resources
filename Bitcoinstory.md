@@ -89,3 +89,5 @@ Sold December 2017 ~ $10k
 Bought my wife’s engagement ring. Should have kept it as Bitcoin! 🤣😭" https://twitter.com/craigmcd10/status/1345744985132568577?s=19
 
 **Scenario 16**: "You might like this one: I sold bitcoin in 2014 to pay for a semester of college..." https://twitter.com/zchyboy/status/1347324356423262210?s=19
+
+**Scenario 17**: "You might like this one: I sold bitcoin in 2014 to pay for a semester of college..."https://twitter.com/picklechipz/status/1348016032728887298?s=19
