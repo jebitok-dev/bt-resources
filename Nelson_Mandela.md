@@ -69,7 +69,7 @@ Nelson Mandela
 “To be free is to live in a way that respects and 
 enhances the freedom of others.” 
 Nelson Mandela 
-````
+`````````````````````
 `````````````````````
 “ A good head and a good heart are always a formidable 
 combination “
@@ -82,7 +82,6 @@ and you can do that  by being
 genuine and humble." 
 Nelson Mandela
 `````````````````````
-
 `````````````````````
 “Sport has the power to change the world". 
 Nelson Mandela 
