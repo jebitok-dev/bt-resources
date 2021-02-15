@@ -45,10 +45,11 @@ code.”
 Dan Salomon
 `````````````````````````````
 `````````````````````````````
-“Perfection is achieved not when there is nothing 
-more to add, but rather when 
-there is nothing more 
-to take away.” 
+“Perfection is achieved not when there 
+is nothing more to add, but 
+rather when there is 
+nothing more to
+take away.” 
 Antoine de Saint-Exupery
 `````````````````````````````
 `````````````````````````````
@@ -56,8 +57,8 @@ Antoine de Saint-Exupery
 Nikita Popov
 `````````````````````````````
 `````````````````````````````
-“ Code is like humor. When you have to explain it, 
-it’s bad.” 
+“ Code is like humor. When you have to 
+explain it, it’s bad.” 
 Cory House
 `````````````````````````````
 `````````````````````````````
@@ -65,14 +66,15 @@ Cory House
 Steve Maguire
 `````````````````````````````
 `````````````````````````````
-“Optimism is an occupational hazard of programming: 
-feedback is the treatment. “ 
+“Optimism is an occupational hazard of 
+programming: feedback is 
+the treatment. “ 
 Kent Beck
 `````````````````````````````
 `````````````````````````````
-“When to use iterative development? You should use 
-iterative development only on 
-projects that you want 
+“When to use iterative development? You 
+should use iterative development 
+only on projects that you want 
 to succeed.” 
 Martin Fowler
 `````````````````````````````
@@ -81,8 +83,9 @@ Martin Fowler
 Austin Freeman
 `````````````````````````````
 `````````````````````````````
-“Before software can be reusable it first 
-has to be usable.” 
+“Before software can be reusable 
+it first has to be 
+usable.” 
 Ralph Johnson
 `````````````````````````````
 `````````````````````````````
