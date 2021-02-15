@@ -89,4 +89,7 @@ Ralph Johnson
 “Make it work, make it right, make it fast.” 
 Kent Beck
 `````````````````````````````
-
+`````````````````````````````
+Programming is not easy like Sunday morning,
+it is silent poetry.
+`````````````````````````````
