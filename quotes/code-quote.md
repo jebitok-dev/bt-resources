@@ -98,3 +98,11 @@ Programming is not easy like
 Sunday morning,it is 
 silent poetry.
 `````````````````````````````
+`````````````````````````````
+If you can write "hello world" 
+you can change the 
+world.
+`````````````````````````````
+`````````````````````````````
+Every programmer is a writer 
+`````````````````````````````
