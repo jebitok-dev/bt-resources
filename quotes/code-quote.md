@@ -115,3 +115,7 @@ maintaining your code will be a
 violent psychopath who knows 
 where you live
 ```
+```
+Think twice, code once.
+```
+
