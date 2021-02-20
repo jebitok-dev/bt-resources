@@ -118,4 +118,10 @@ where you live
 ```
 Think twice, code once.
 ```
-
+```
+The most important property 
+of a program is whether 
+it accomplishes the 
+intention of 
+its user.
+```
