@@ -71,7 +71,6 @@ to explain it, it’s
 bad.”
 Cory House
 ```
-
 ```
 “Fix the cause, not the symptom.”
 Steve Maguire
@@ -136,4 +135,11 @@ its user.
 Software testing is a sport 
 like hunting, it's 
 bughunting.
+```
+```
+Generally, the craft of programming 
+is the factoring of a set of 
+requirements into a set of 
+functions and data 
+structures.
 ```
