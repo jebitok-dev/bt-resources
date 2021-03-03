@@ -143,3 +143,8 @@ requirements into a set of
 functions and data 
 structures.
 ```
+```
+Happiness should be a function 
+without any parameters.
+```
+
