@@ -157,5 +157,8 @@ encryption.
 It does not matter how slowly you go 
 as long as you do not stop.
 ```
-
-
+```
+I'm not a great programmer; I'm just a 
+good programmer with 
+great habits.
+```
