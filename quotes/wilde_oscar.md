@@ -44,5 +44,14 @@ and two none"
 Wilde Oscar 
 `````````````````````````
 `````````````````````````
-
+"Suffering is one very long moment. 
+We cannot divide it by seasons. 
+We can only record it's 
+moods, and chronicle 
+their return. 
+With us time 
+itself does 
+not progress
+." 
+Oscar Wilde (De Profundis)
 `````````````````````````
